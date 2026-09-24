@@ -1,0 +1,9 @@
+accelerate>=1.1.0
+datasets
+groq
+matplotlib
+numpy
+pandas
+scikit-learn
+torch
+transformers

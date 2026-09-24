@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 0.2647,
+  "finetuned_accuracy": 0.4706,
+  "improvement": 0.2059,
+  "test_set_size": 34,
+  "label_map": {
+    "grounded": 0,
+    "partially grounded": 1,
+    "speculative": 2,
+    "not assessable": 3
+  },
+  "model": "distilbert-base-uncased"
+}
