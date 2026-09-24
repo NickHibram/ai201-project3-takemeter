@@ -2,6 +2,8 @@
 
 TakeMeter classifies the evidence grounding of comments from Reddit's r/AmItheAsshole (AITA). It assesses whether a comment's reasoning is supported by the original post and, for replies, the relevant parent-comment context.
 
+[Demo video](https://drive.google.com/file/d/1aJ5JF-ko-yZYUwllFBXooePbXuEIRUEh/view?usp=sharing)
+
 ## Labels
 
 | Label | Definition |
